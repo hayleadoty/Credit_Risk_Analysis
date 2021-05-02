@@ -10,7 +10,7 @@ Below are the balanced accuracy, precision, and recall scores of our six machine
 
 - For our RandomOverSampler model, our balanced accuracy score was 0.65. Precision was 0.99, and recall was 0.68:
 
-![Over-Sampling Classification Report](/images/oversample.png)
+![Over-Sampling Classification Report](/images/oversampling.png)
 
 - For our SMOTE model, our balanced accuracy score was 0.64. Precision was 0.99, and recall was 0.66:
 
